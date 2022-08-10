@@ -1,0 +1,22 @@
+:root {
+  --alert-image-icon: url('dark/images/alert.png');
+  --blue-tick-icon: url('dark/images/blue_tick.svg');
+  --drag-table-icon: url('dark/images/images/dragtable.png');
+  --error-icon: url('dark/images/error.svg');
+  --gradient-icon: url('dark/images/gradient.png');
+  --gray-tick-icon: url('dark/images/gray_tick.svg');
+  --empty-state-icon: url('dark/images/icon_empty_state.svg');
+  --info-icon: url('dark/images/info.svg');
+  --information-icon: url('dark/images/information.svg');
+  --nodata-icon: url('dark/images/nodata.png');
+  --not-configured-icon: url('dark/images/not_configured.png');
+  --parameter-icon: url('dark/images/parameter.png');
+  --question-icon: url('dark/images/question.svg');
+  --success-icon: url('dark/images/success.svg');
+  --waiting-loading-indicator-icon: url('dark/images/loading_indicator.svg');
+  --layout-update-row-svg: url('dark/images/update_row.svg');
+  --warning-png-icon: url('dark/images/warning.png');
+  --warning-svg-icon: url('dark/images/warning.svg');
+  --warning-sync-icon: url('dark/images/warning_sync.svg');
+  --color-picker-model-image: url('common-images/colorpicker_dark.png');
+}

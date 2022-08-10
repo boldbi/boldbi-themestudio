@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="themes/dark/boldbi.theme.definition.min.css" />
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+		<script type="text/javascript" src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jsrender/1.0.0-beta/jsrender.min.js"></script>
+        <script type="text/javascript" src="https://cdn.boldbi.com/embedded-sdk/latest/boldbi-embed.js"></script>
+        <style>
+            body, html, #dashboard-container {
+                width: 100%;
+                height: 100%;
+            }
+            body {
+                margin: 0px;
+            }
+        </style>
+    </head>
+    <body onload="embedSample();">
+        <div id="dashboard-container"></div>
+        <script>		
+            //For Bold BI Enterprise edition, it should be like `site/site1`. For Bold BI Cloud, it should be empty string.
+            var siteIdentifier = configjson.SiteIdentifier;
+            
+            //Your Bold BI application environment. (If Cloud, you should use `cloud`, if Enterprise, you should use `onpremise`)
+            var environment = configjson.Environment;
+
+            //Item id of the dashboard in the Bold BI server`
+            var dashboardId =configjson.DashboardId;
+
+            //Bold BI Server URL (ex: http://localhost:5000/bi, http://demo.boldbi.com/bi)
+            var rootUrl = configjson.ServerUrl;
+
+            //Url of the GetDetails(API) in this application
+            var authorizationUrl="http://localhost:8080/embeddetail/get";
+
+            function embedSample() {
+                var boldbiEmbedInstance = BoldBI.create({
+                    serverUrl: rootUrl + "/"+siteIdentifier,
+                    dashboardId: dashboardId,
+                    embedContainerId: "dashboard-container",// This should be the container id where you want to embed the dashboard
+                    embedType: BoldBI.EmbedType.Component,
+                    environment: environment,
+                    mode: BoldBI.Mode.View,
+                    height: "100%",
+                    width: "100%",
+                    authorizationServer: {
+                        url: "http://localhost:8080/embeddetail/get"
+                    },
+                    expirationTime: "100000",
+                    dashboardSettings: {
+                        themeSettings: {
+                            isLocalTheme: true
+                        }
+                    }
+                });
+                boldbiEmbedInstance.loadDashboard();
+            }
+        </script>
+    </body>
+    </html>

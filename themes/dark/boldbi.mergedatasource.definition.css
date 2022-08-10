@@ -1,0 +1,10 @@
+:root {
+  --merge-datasource-primary-background-color: var(--primary-background-color);
+  --merge-datasource-secondary-background-color: var(--secondary-background-color);
+  --merge-datasource-header-text-color: var(--primary-text-normal-color);
+  --merge-datasource-name-background-color: var(--primary-background-color);
+  --merge-datasource-primary-border-color: var(--primary-border-color);
+  --merge-datasource-secondary-border-color: var(--secondary-border-color);
+  --merge-datasource-placeholder-color: var(--secondary-text-normal-color);
+  --merge-datasource-icon-hover-color: var(--primary-text-normal-color);
+}

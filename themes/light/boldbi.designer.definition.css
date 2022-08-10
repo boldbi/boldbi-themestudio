@@ -1,0 +1,35 @@
+:root{
+    --designer-background: var(--primary-background-color);
+    --designer-container-background: var(--secondary-background-color);
+    --designer-cell-background: var(--designer-header-background);
+    --designer-assigndata-background: var(--designer-header-background);
+    --designer-input-readonly-text-color: var(--primary-text-normal-color);
+    --designer-input-readonly-background: var(--primary-background-color);
+    --designer-dropdown-select-background: var(--primary-background-color);
+    --designer-preview-background: var(--primary-background-color);
+    --designer-toolbar-icon-color: var(--primary-text-normal-color);
+    --designer-primary-border-color: var(--primary-border-color);
+    --designer-secondary-border-color: var(--secondary-border-color);
+    --designer-dialog-icon-color: var(--active-icon-normal-color);
+    --designer-icon-hover-color: var(--designer-header-background);
+    --designer-popup-dialog-hover-background: var(--hover-bg-normal-color);
+    --designer-disable-spin-background: var(--secondary-background-color);
+    --designer-text-color: var(--primary-text-normal-color);
+    --designer-disable-radio-button-background: var(--secondary-background-color);
+    --designer-disable-checkbox-background: var(--secondary-background-color);
+    --designer-placeholder-text-color: var(--secondary-text-normal-color);
+    --designer-error-msg-text-color: var(--secondary-text-normal-color);
+    --designer-preview-sec-border-color: var(--secondary-border-color);
+    --designer-view-background: var(--primary-background-color);
+    --widget-notconfigured-image-background1: #E8E8E8;
+    --widget-notconfigured-image-background2: #D5D5D5;
+    --widget-notconfigured-image-background3: #CFCCCC;
+    --container-box-shadow:0px 3px 8px rgba(112, 120, 135, 0.24);
+	--designer-skeleton-primary-loader: #f6f7f8;
+    --designer-skeleton-secondary-loader: #edeef1;
+   --widget-dropdown-box-shadow:var(--box-shadow);
+   --widget-header-text-hover-color:var(--secondary-text-normal-color);
+   --designer-checkbox-active-color:var(--checkbox-active-normal-color);
+   --checkbox-active-background-color: var(--primary-branding-color);
+   --toast-success-border-color: #4DD964;
+}

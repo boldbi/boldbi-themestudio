@@ -1,0 +1,11 @@
+:root {
+    --widget-configuration-primary-background-color: var(--primary-background-color);
+    --widget-configuration-checkbox-background-color: var(--secondary-background-color);
+    --widget-configuration-text-color: var(--primary-text-normal-color);
+    --widget-configuration-secondary-background-color: var(--secondary-background-color);
+    --widget-configuration-header-background-color: var(--designer-header-background);
+    --widget-configuration-primary-border-color: var(--primary-border-color);
+    --widget-configuration-secondary-border-color: var(--secondary-border-color);
+	--widget-configuration-warning-image: 'url(/bi/cdn/css/designer/images/dark/warning.svg) no-repeat';
+	--widget-configuration-alert-image: 'url(/bi/cdn/css/designer/images/dark/alert.svg) no-repeat';
+}

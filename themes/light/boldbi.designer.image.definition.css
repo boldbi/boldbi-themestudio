@@ -1,0 +1,22 @@
+:root {
+  --alert-image-icon: url('light/images/alert.png');
+  --blue-tick-icon: url('light/images/blue_tick.svg');
+  --drag-table-icon: url('light/images/images/dragtable.png');
+  --error-icon: url('light/images/error.svg');
+  --gradient-icon: url('light/images/gradient.png');
+  --gray-tick-icon: url('light/images/gray_tick.svg');
+  --empty-state-icon: url('light/images/icon_empty_state.svg');
+  --info-icon: url('light/images/info.svg');
+  --information-icon: url('light/images/information.svg');
+  --nodata-icon: url('light/images/nodata.png');
+  --not-configured-icon: url('light/images/not_configured.png');
+  --parameter-icon: url('light/images/parameter.png');
+  --question-icon: url('light/images/question.svg');
+  --success-icon: url('light/images/success.svg');
+  --waiting-loading-indicator-icon: url('light/images/loading_indicator.svg');
+  --layout-update-row-svg: url('light/images/update_row.svg');
+  --warning-png-icon: url('light/images/warning.png');
+  --warning-svg-icon: url('light/images/warning.svg');
+  --warning-sync-icon: url('light/images/warning_sync.svg');
+  --color-picker-model-image: url('common-images/colorpicker_light.png');
+}

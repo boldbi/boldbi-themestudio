@@ -1,0 +1,37 @@
+:root {
+    --danger-button-bg-normal-color: #ff3b30;
+    --danger-button-bg-hover-color: #ff4f45;
+    --danger-button-border-normal-color: #ff3b30;
+    --danger-button-text-normal-color: #ffffff;
+    --view-section-content-bg-color: #f2f2f2;
+    --view-section-content-bg-hover-color: #e6e6e6;
+    --primary-text-hover-color: #333333;
+    --icon-text-normal-color: #4d4d4d;
+    --icon-text-hover-color: #1a1a1a;
+    --share-dialog-warning-bg: #ffcc01;
+    --share-dialog-copy-section-bg-color: #f9f9f9;
+    --comment-unwatch-bg-color: #FFC069;
+    --usermention-text-color: #3572b0;
+    --comment-section-border-color: #e6e6e6;
+    --comment-section-bell-icon-text-color: #000000;
+    --warning-toast-border-normal-color: #fe5b45;
+    --success-toast-border-normal-color: #4bc870;
+    --tool-tip-bg-normal-color: #000000;
+    --tool-tip-text-normal-color: #ffffff;
+    --drop-down-menu-btn-border-hover-color: #b3b3b3;
+    --input-box-text-disable-color: #999999;
+	--input-box-bg-disable-color: #f2f2f2;
+    --material-switch-background-bg-normal-color: #fff;
+    --material-switch-background-border-normal-color: #b3b3b3;
+    --material-switch-background-border-hover-color: #4d4d4d;
+    --material-switch-foreground-bg-normal-color: #808080;
+    --radio-button-border-normal-color: #b3b3b3;
+    --radio-button-border-disable-color: #cccccc;
+    --radio-button-box-shadow-disable-color: #eeeeee;
+    --radio-button-box-shadow-active-color: #ffffff;
+    --radio-button-bg-active-color: #0565FF;
+    --warning-bg-normal-color: #fff8ee;
+    --warning-border-normal-color: #ffebcf;
+    --embed-code-copied-bg-color: #D3F6D9;
+    --embed-code-copied-text-color: #25AF3C;
+}

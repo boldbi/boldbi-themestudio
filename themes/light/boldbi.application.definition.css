@@ -1,0 +1,27 @@
+:root{
+    --primary-branding-color: #0565ff;
+    --primary-branding-border-color: #0451cc;
+    --primary-text-normal-color: #333333;
+    --secondary-text-normal-color: #808080;
+    --hyper-link-normal-color: var(--primary-branding-color);
+    --hyper-link-hover-color: #007aff;
+    --primary-btn-bg-normal-color: var(--primary-branding-color);
+    --primary-btn-bg-hover-color: var(--hyper-link-hover-color);
+    --primary-btn-bg-disable-color: #eeeeee;
+    --primary-btn-border-normal-color: var(--primary-branding-color);
+    --primary-btn-border-disable-color: #cccccc;
+    --primary-btn-text-normal-color: #ffffff;
+    --primary-btn-text-hover-color: var(--primary-btn-text-normal-color);
+    --primary-btn-text-disable-color: #999999;
+    --secondary-btn-bg-normal-color: var(--primary-btn-text-normal-color);
+    --secondary-btn-bg-hover-color: var(--primary-btn-bg-disable-color);
+    --secondary-btn-bg-disable-color: var(--primary-btn-bg-disable-color);
+    --secondary-btn-border-normal-color: #b3b3b3;
+    --secondary-btn-border-disable-color: var(--primary-btn-border-disable-color);
+    --secondary-btn-text-normal-color: var(--primary-text-normal-color);
+    --secondary-btn-text-hover-color: var(--primary-text-normal-color);
+    --secondary-btn-text-disable-color: var(--primary-btn-text-disable-color);
+    --hover-bg-normal-color: var(--primary-btn-bg-disable-color);
+    --active-bg-normal-color: #dbe9ff;
+    --active-text-normal-color: var(--primary-branding-color);
+}

@@ -1,0 +1,16 @@
+:root {
+    --selection-container-color: var(--primary-branding-color);
+    --selection-container-border-color:  var(--primary-branding-border-color);
+    --primary-background-color:#fff;
+    --secondary-background-color:#fff;
+    --designer-header-background: #ececec;
+    --primary-border-color: #c8c8c8;
+    --secondary-border-color: #c8c8c8;
+    --box-shadow: 1px 1px 10px #d8cccc;
+    --active-icon-normal-color: #4d4d4d;
+    --hover-icon-background-color: #eeeeee;
+    --hover-icon-color: #1a1a1a;
+    --disable-icon-color: #eeeeee;
+    --checkbox-active-normal-color:#fff;
+	--active-bg-hover-color: #f0f6ff;
+}

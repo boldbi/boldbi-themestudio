@@ -1,0 +1,11 @@
+:root {
+    --dataalert-background: var(--primary-background-color);
+    --dataalert-container-background: var(--secondary-background-color);
+    --dataalert-popup-dialog-background: var(--primary-background-color);
+    --designer-data-alert-background: var(--dataalert-background);
+    --designer-data-alert-custom-header-background: var(--dataalert-background);
+    --designer-data-alert-condition-container-background: var(--secondary-background-color);
+    --designer-data-alert-add-global-conditions-parent-background: var(--secondary-background-color);
+    --designer-toolbar-icon-color: var(--primary-text-normal-color);
+  --designer-data-alert-primary-border-color: var(--primary-border-color);
+}
