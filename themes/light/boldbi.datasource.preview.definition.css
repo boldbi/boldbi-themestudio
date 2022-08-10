@@ -1,0 +1,11 @@
+:root {
+  --datapreview-background-color: var(--primary-background-color);
+  --datapreview-header-background-color: var(--designer-header-background);
+  --datapreview-text-color: var(--primary-text-normal-color);
+  --datapreview-watermark-text-color: var(--secondary-text-normal-color);
+  --datapreview-icon-color: var(--primary-text-normal-color);
+  --datapreview-active-background-color: var(--active-bg-normal-color);
+  --datapreview-active-hover-background-color: var(--active-bg-hover-color);
+  --datapreview-border-color: var(--secondary-border-color);
+  --datapreview-hover-background-color: var(--hover-bg-normal-color);
+}

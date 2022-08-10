@@ -1,0 +1,16 @@
+:root{
+    --selection-container-color: var(--primary-branding-color);
+    --selection-container-border-color: var(--primary-branding-border-color);
+    --primary-background-color: #181E2B;
+    --secondary-background-color: #222733;  
+    --designer-header-background: #333842;
+    --primary-border-color: #4C545F;
+    --secondary-border-color: #969DA6;
+    --box-shadow: 0px 6px 14px 3px rgba(0, 0, 0, 0.1);
+    --active-icon-normal-color: #D2D7DE;
+    --hover-icon-background-color: #4a536b;
+    --hover-icon-color: #ffffff;
+    --disable-icon-color: #7B838E;
+    --checkbox-active-normal-color:#fff;
+	--active-bg-hover-color: #3B82F633;
+}

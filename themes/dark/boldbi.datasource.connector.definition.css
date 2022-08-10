@@ -1,0 +1,13 @@
+:root { 
+    --connector-header-background: var(--secondary-background-color);
+    --connector-background: var(--primary-background-color);
+    --connector-tile-container-background: var(--connector-header-background);
+    --connector-datasource-search-container: var(--primary-background-color);
+    --connector-text-color: var(--primary-text-normal-color);
+    --connector-tile-header-background: var(--connector-header-background);
+    --connector-tile-color: var(--primary-branding-color);
+    --connection-background: var(--primary-background-color);
+  --connector-primary-border-color: var(--primary-border-color);
+  --connector-secondary-border-color: var(--secondary-border-color);
+    --connector-disable-button-foreground: var(--active-icon-normal-color);
+}

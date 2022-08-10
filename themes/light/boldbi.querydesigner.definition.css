@@ -1,0 +1,25 @@
+:root{
+    --userfilter-container-bg: var(--secondary-background-color);
+    --users-field-container-bg: var(--designer-header-background);
+    --userfilter-icon-color: var(--designer-toolbar-icon-color);
+    --userfilter-input-bg: var(--designer-input-readonly-background);
+    --userfilter-bg: var(--primary-background-color);
+    --userfilter-text-color: var(--primary-text-normal-color);
+    --userfilter-border-color: var(--border-color);
+    --userfilter-hover-bg: var(--hover-bg-normal-color);
+    --query-filter-container-bg: var(--secondary-background-color);
+    --query-filter-text-color: var(--primary-text-normal-color);
+    --querydesigner-background: var(--primary-background-color);
+    --querydesigner-container-background: var(--secondary-background-color);
+    --param-background: var(--primary-background-color);
+    --param-container-background: var(--secondary-background-color);
+    --param-input-background: var(--designer-input-readonly-background);
+    --param-text-color: var(--primary-text-normal-color);
+    --querydesigner-text-color: var(--primary-text-normal-color);
+    --querydesigner-sec-text-color: var(--secondary-text-normal-color);
+    --querydesigner-hover-bg-color: var(--hover-bg-normal-color);
+	--querydesigner-primary-border-color: var(--primary-border-color);
+	--querydesigner-secondary-border-color: var(--secondary-border-color);
+     --querydesigner-radio-button-disable-border-color: var(--disable-icon-color);
+     --querydesigner-switch-button-disable-foreground-color: var(--active-icon-normal-color);
+}

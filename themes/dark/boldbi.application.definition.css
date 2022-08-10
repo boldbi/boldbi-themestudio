@@ -1,0 +1,27 @@
+:root{
+	--primary-branding-color: #4B8CF7;
+    --primary-branding-border-color: #2563EB;
+	--primary-text-normal-color: #FFFFFF;
+    --secondary-text-normal-color: #808080;
+	--hyper-link-normal-color: #4B8CF7;
+    --hyper-link-hover-color: #4B8CF7;
+    --primary-btn-bg-normal-color:#4B8CF7;
+    --primary-btn-bg-hover-color: #4B8CF7;
+    --primary-btn-border-normal-color: var(--primary-btn-bg-normal-color);
+	--primary-btn-border-disable-color: #565F6A;
+    --primary-btn-text-normal-color: #fff;
+    --primary-btn-text-hover-color: #fff;
+	--primary-btn-disable-text-normal-color:#7B838E;
+	--primary-btn-bg-disable-color:#333842;
+    --secondary-btn-bg-normal-color: #4c545f;
+    --secondary-btn-bg-hover-color: #4C545F;
+    --secondary-btn-bg-disable-color: #333842;
+    --secondary-btn-border-normal-color: #7B838E;
+    --secondary-btn-border-disable-color: #565F6A;
+    --secondary-btn-text-normal-color: #FFFFFF;
+    --secondary-btn-text-hover-color: #FFFFFF;
+    --secondary-btn-text-disable-color: #7B838E;
+    --hover-bg-normal-color: #4a536b;
+    --active-bg-normal-color: #4B8CF733;
+    --active-text-normal-color: #FFFFFF;
+}
