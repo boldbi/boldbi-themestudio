@@ -1,5 +1,5 @@
 # boldbi-themestudio
-The theme studio for the BoldBi designer client can be used to customize a theme.
+The theme studio for the BoldBI designer client can be used to customize a theme.
 
 ## Development Environment
 
@@ -20,7 +20,7 @@ Once you check out the source, open the command prompt and change the working di
 * Install gulp in your machine by the command below: 
 
 ```csharp
-npm install  gulp -g
+npm install gulp -g
 ```
 
 * Install the required packages by the command below: 
