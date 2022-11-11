@@ -1,0 +1,45 @@
+:root{
+ --kpicard-widget-header-title-font-color:var(--widget-primary-font-color);
+ --kpicard-widget-header-title-fontsize:var(--widget-fontsize);
+ --kpicard-widget-header-title-fontweight:var(--widget-fontweight);
+ --kpicard-widget-header-title-fontfamily:var(--widget-fontfamily);
+ --kpicard-widget-header-title-fontsrc:var(--widget-fontsrc);
+ --kpicard-widget-subtitle-font-color:var(--widget-primary-font-color);
+ --kpicard-widget-subtitle-fontsize:var(--widget-fontsize);
+ --kpicard-widget-subtitle-fontweight:var(--widget-fontweight);
+ --kpicard-widget-subtitle-fontfamily:var(--widget-fontfamily);
+ --kpicard-widget-subtitle-fontsrc:var(--widget-fontsrc);
+ --kpicard-widget-border:var(--secondary-border-color);
+ --kpicard-widget-leftlabel-font-color:var(--widget-label-secondary-font-color);
+ --kpicard-widget-leftlabel-fontsize:var(--widget-fontsize);
+ --kpicard-widget-leftlabel-fontweight:var(--widget-fontweight);
+ --kpicard-widget-leftlabel-fontfamily:var(--widget-fontfamily);
+ --kpicard-widget-leftlabel-fontsrc:var(--widget-fontsrc);
+ --kpicard-widget-leftvalue-font-color:var(--widget-label-secondary-font-color);
+ --kpicard-widget-leftvalue-fontsize:var(--widget-fontsize);
+ --kpicard-widget-leftvalue-fontweight:var(--widget-fontweight);
+ --kpicard-widget-leftvalue-fontfamily:var(--widget-fontfamily);
+ --kpicard-widget-leftvalue-fontsrc:var(--widget-fontsrc);
+ --kpicard-widget-rightlabel-font-color:var(--widget-label-secondary-font-color);
+ --kpicard-widget-rightlabel-fontsize:var(--widget-fontsize);
+ --kpicard-widget-rightlabel-fontweight:var(--widget-fontweight);
+ --kpicard-widget-rightlabel-fontfamily:var(--widget-fontfamily);
+ --kpicard-widget-rightlabel-fontsrc:var(--widget-fontsrc);
+ --kpicard-widget-rightvalue-font-color:var(--widget-label-secondary-font-color);
+ --kpicard-widget-rightvalue-fontsize:var(--widget-fontsize);
+ --kpicard-widget-rightvalue-fontweight:var(--widget-fontweight);
+ --kpicard-widget-rightvalue-fontfamily:var(--widget-fontfamily);
+ --kpicard-widget-rightvalue-fontsrc:var(--widget-fontsrc);
+ --kpicard-widget-kpivalue-font-color:var(--widget-label-secondary-font-color);
+ --kpicard-widget-kpivalue-fontsize:var(--widget-fontsize);
+ --kpicard-widget-kpivalue-fontweight:var(--widget-fontweight);
+ --kpicard-widget-kpivalue-fontfamily:var(--widget-fontfamily);
+ --kpicard-widget-kpivalue-fontsrc:var(--widget-fontsrc);
+ --kpicard-widget-seperator-color:#9AA1A9;
+ --kpicard-widget-title-font-color:var(--widget-label-secondary-font-color);
+ --kpicard-widget-title-fontsize:var(--widget-fontsize);
+ --kpicard-widget-title-fontweight:var(--widget-fontweight);
+ --kpicard-widget-title-fontfamily:var(--widget-fontfamily);
+ --kpicard-widget-title-fontsrc:var(--widget-fontsrc);
+ 
+}

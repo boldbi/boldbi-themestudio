@@ -1,0 +1,23 @@
+:root{
+ --numbercard-widget-header-title-font-color:var(--widget-primary-font-color);
+ --numbercard-widget-header-title-fontsize:var(--widget-fontsize);
+ --numbercard-widget-header-title-fontweight:var(--widget-fontweight);
+ --numbercard-widget-header-title-fontfamily:var(--widget-fontfamily);
+ --numbercard-widget-header-title-fontsrc:var(--widget-fontsrc);
+ --numbercard-widget-subtitle-font-color:var(--widget-primary-font-color);
+ --numbercard-widget-subtitle-fontsize:var(--widget-fontsize);
+ --numbercard-widget-subtitle-fontweight:var(--widget-fontweight);
+ --numbercard-widget-subtitle-fontfamily:var(--widget-fontfamily);
+ --numbercard-widget-subtitle-fontsrc:var(--widget-fontsrc);
+ --numbercard-widget-border:var(--secondary-border-color);
+ --numbercard-widget-rightvalue-font-color:var(--widget-label-secondary-font-color);
+ --numbercard-widget-rightvalue-fontsize:var(--widget-fontsize);
+ --numbercard-widget-rightvalue-fontweight:var(--widget-fontweight);
+ --numbercard-widget-rightvalue-fontfamily:var(--widget-fontfamily);
+ --numbercard-widget-rightvalue-fontsrc:var(--widget-fontsrc);
+ --numbercard-widget-title-font-color:var(--widget-label-secondary-font-color);
+ --numbercard-widget-title-fontsize:var(--widget-fontsize);
+ --numbercard-widget-title-fontweight:var(--widget-fontweight);
+ --numbercard-widget-title-fontfamily:var(--widget-fontfamily);
+ --numbercard-widget-title-fontsrc:var(--widget-fontsrc);
+}

@@ -1,8 +1,8 @@
 :root {
     --selection-container-color: var(--primary-branding-color);
     --selection-container-border-color:  var(--primary-branding-border-color);
-    --primary-background-color:#fff;
-    --secondary-background-color:#fff;
+    --primary-background-color:#ffffff;
+    --secondary-background-color:#ffffff;
     --designer-header-background: #ececec;
     --primary-border-color: #c8c8c8;
     --secondary-border-color: #c8c8c8;
@@ -11,6 +11,5 @@
     --hover-icon-background-color: #eeeeee;
     --hover-icon-color: #1a1a1a;
     --disable-icon-color: #eeeeee;
-    --checkbox-active-normal-color:#fff;
 	--active-bg-hover-color: #f0f6ff;
 }

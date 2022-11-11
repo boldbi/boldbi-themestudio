@@ -1,0 +1,37 @@
+:root{
+ --listbox-widget-title-font-color:var(--widget-primary-font-color);
+ --listbox-widget-title-fontsize:var(--widget-fontsize);
+ --listbox-widget-title-fontweight:var(--widget-fontweight);
+ --listbox-widget-title-fontfamily:var(--widget-fontfamily);
+ --listbox-widget-title-fontsrc:var(--widget-fontsrc);
+ --listbox-widget-subtitle-font-color:var(--widget-primary-font-color);
+ --listbox-widget-subtitle-fontsize:var(--widget-fontsize);
+ --listbox-widget-subtitle-fontweight:var(--widget-fontweight);
+ --listbox-widget-subtitle-fontfamily:var(--widget-fontfamily);
+ --listbox-widget-subtitle-fontsrc:var(--widget-fontsrc);
+ --listbox-widget-dropdownlist-bordercolor:var(--primary-border-color);
+ --listbox-widget-dropdownlist-background:var(--widget-primary-background);
+ --listbox-widget-dropdownlist-font-color:var(--widget-primary-font-color);
+ --listbox-widget-dropdownlist-fontsize:var(--widget-fontsize);
+ --listbox-widget-dropdownlist-fontweight:var(--widget-fontweight);
+ --listbox-widget-dropdownlist-fontfamily:var(--widget-fontfamily);
+ --listbox-widget-dropdownlist-fontsrc:var(--widget-fontsrc);
+ --listbox-widget-dropdownlist-hover-background:var(--widget-datavalue-hover-background);
+ --listbox-widget-dropdownlist-hover-font-color:var(--widget-primary-font-color);
+ --listbox-widget-dropdownlist-hover-fontsize:var(--widget-fontsize);
+ --listbox-widget-dropdownlist-hover-fontweight:var(--widget-fontweight);
+ --listbox-widget-dropdownlist-hover-fontfamily:var(--widget-fontfamily);
+ --listbox-widget-dropdownlist-hover-fontsrc:var(--widget-fontsrc);
+ --listbox-widget-dropdownlist-selection-background:var(--widget-selection-background-color);
+ --listbox-widget-dropdownlist-selection-font-color:var(--widget-selection-font-color);
+ --listbox-widget-dropdownlist-selection-fontsize:var(--widget-fontsize);
+ --listbox-widget-dropdownlist-selection-fontweight:var(--widget-fontweight);
+ --listbox-widget-dropdownlist-selection-fontfamily:var(--widget-fontfamily);
+ --listbox-widget-dropdownlist-selection-fontsrc:var(--widget-fontsrc);
+ --listbox-widget-dropdownlist-downarrow-color:var(--active-icon-normal-color);
+ --listbox-widget-checkbox-tick-color:var(--checkbox-btn-tick-color);
+ --listbox-widget-checkbox-unchecked-bg:var(--checkbox-btn-unchecked-bg-color);
+ --listbox-widget-checkbox-unchecked-border:var(--checkbox-btn-unchecked-border-color);
+ --listbox-widget-checkbox-checked-bg:var(--checkbox-btn-checked-bg-color);
+ --listbox-widget-checkbox-checked-border:var(--checkbox-btn-checked-border-color);
+}

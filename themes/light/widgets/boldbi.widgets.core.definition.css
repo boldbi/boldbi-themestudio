@@ -1,0 +1,24 @@
+:root{
+  --widget-primary-background:var(--primary-background-color);
+  --widget-primary-font-color:#000000;
+  --widget-secondary-font-color:var(--primary-text-normal-color);
+  --widget-fontsize:"";
+  --widget-fontweight:"";
+  --widget-fontfamily:var(--designer-font-family);
+  --widget-fontsrc:(--designer-fontsrc);
+  --widget-icon-font-color:var(--hover-icon-color);
+  --widget-icon-hover-font-color:var(--widget-icon-font-color);
+  --widget-icon-hover-background:var(--hover-icon-background-color);
+  --widget-axis-title-font-color:var(--widget-primary-font-color);
+  --widget-label-primary-font-color:var(--widget-primary-font-color);
+  --widget-label-secondary-font-color:#505D6F;
+  --widget-axis-gridlines-color:#DFDFDF;
+  --widget-axis-ticklines-color:var(--widget-axis-gridlines-color);
+  --widget-legend-font-color:var(--widget-primary-font-color);  
+  --widget-datavalue-background-color:var(--widget-primary-background);
+  --widget-dataValue-font-color:var(--widget-primary-font-color);
+  --widget-datavalue-hover-color:var(--widget-primary-font-color);
+  --widget-datavalue-hover-background:var(--hover-bg-normal-color);
+  --widget-selection-background-color:var(--active-bg-normal-color);
+  --widget-selection-font-color:var(--active-text-normal-color);
+}

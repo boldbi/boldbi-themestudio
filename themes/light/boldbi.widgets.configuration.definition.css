@@ -8,5 +8,6 @@
     --widget-configuration-secondary-border-color: var(--secondary-border-color);
 	--widget-configuration-warning-image: 'url(/bi/cdn/css/designer/images/light/warning.svg) no-repeat';
 	--widget-configuration-alert-image: 'url(/bi/cdn/css/designer/images/light/alert.svg) no-repeat';
+	--widget-configuration-radio-button-unselected-border-color: var(--checkbox-btn-unchecked-border-color);
 
 }

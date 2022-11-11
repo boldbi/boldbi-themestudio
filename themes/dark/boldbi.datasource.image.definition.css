@@ -47,6 +47,8 @@
 --database-google-cloud-tile-background-icon:url('dark/images/datasource/google/googlecloud_tile.png') no-repeat;
 --database-mongodb-background-icon:url('dark/images/datasource/mongodb/mongodb.png');
 --database-mongodb-tile-background-icon:url('dark/images/datasource/mongodb/mongodb_tile.png');
+--database-ravendb-background-icon:url('dark/images/datasource/ravendb/raven.png');
+--database-ravendb-tile-background-icon:url('dark/images/datasource/ravendb/ravendb_tile.png');
 --database-vertica-background-icon:url('dark/images/datasource/vertica/vertica.png') no-repeat;
 --database-vertica-tile-background-icon:url('dark/images/datasource/vertica/vertica_tile.png') no-repeat;
 --file-excel-background-icon:url('dark/images/datasource/file/excel.png');
@@ -65,6 +67,8 @@
 --service-activecampaign-tile-background-icon:url('dark/images/datasource/activecampaign/activecampaign_tile.png');
 --service-alchemer-background-icon:url('dark/images/datasource/alchemer/alchemer.png');
 --service-alchemer-tile-background-icon:url('dark/images/datasource/alchemer/alchemer_tile.png');
+--service-alma-background-icon:url('dark/images/datasource/alma/alma.png');
+--service-alma-tile-background-icon:url('dark/images/datasource/alma/alma_tile.png');
 --service-amazonmws-background-icon:url('dark/images/datasource/amazon/amazon.png');
 --service-amazonmws-tile-background-icon:url('dark/images/datasource/amazon/amazon_tile.png');
 --service-appannie-background-icon:url('dark/images/datasource/appannie/appannie.png');
@@ -153,6 +157,8 @@
 --service-nicereply-tile-background-icon:url('dark/images/datasource/nicereply/nicereply_tile.png');
 --service-nutshell-background-icon:url('dark/images/datasource/nutshell/nutshell.png');
 --service-nutshell-tile-background-icon:url('dark/images/datasource/nutshell/nutshell_tile.png');
+--service-sparkpost-background-icon:url('dark/images/datasource/sparkpost/sparkpost.png');
+--service-sparkpost-tile-background-icon:url('dark/images/datasource/sparkpost/sparkpost_tile.png');
 --service-odata-background-icon:url('dark/images/datasource/odata/odata.png');
 --service-odata-tile-background-icon:url('dark/images/datasource/odata/o-data_tile.png');
 --service-optimizely-background-icon:url('dark/images/datasource/optimizely/optimizely.png');
@@ -309,12 +315,16 @@
 --oauth-wordpress-tile-background-icon:url('dark/images/datasource/wordpress/wordpress_tile.png');
 --oauth-xero-background-icon:url('dark/images/datasource/xero/xero.png');
 --oauth-xero-tile-background-icon:url('dark/images/datasource/xero/xero_tile.png');
+--oauth-xero-workflow-max-background-icon:url('dark/images/datasource/xeroworkflowmax/xeroworkflowmax.png');
+--oauth-xero-workflow-max-tile-background-icon:url('dark/images/datasource/xeroworkflowmax/xeroworkflowmax_tile.png');
 --oauth-youtube-background-icon:url('dark/images/datasource/google/youtube.png');
 --oauth-youtube-tile-background-icon:url('dark/images/datasource/google/youtube_tile.png');
 --oauth-zohocrm-background-icon:url('dark/images/datasource/zohocrm/zohocrm.png');
 --oauth-zohocrm-tile-background-icon:url('dark/images/datasource/zohocrm/zohocrm_tile.png');
 --oauth-zohoinvoice-background-icon:url('dark/images/datasource/zohoinvoice/zohoinvoice.png');
 --oauth-zohoinvoice-tile-background-icon:url('dark/images/datasource/zohoinvoice/zohoinvoice_tile.png');
+--oauth-zohobooks-background-icon:url('dark/images/datasource/zohobooks/zohobooks.png');
+--oauth-zohobooks-tile-background-icon:url('dark/images/datasource/zohobooks/zohobooks_tile.png');
 --common-microsoft-onedrive-folder-background-icon:url('dark/images/datasource/common/microsoftdrive_folder.png');
 --common-microsoft-onedrive-xml-background-icon:url('dark/images/datasource/file/xml.png');
 --common-microsoft-onedrive-excel-background-icon:url('dark/images/datasource/common/microsoft_xlsx.png');

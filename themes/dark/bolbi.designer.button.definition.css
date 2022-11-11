@@ -1,0 +1,18 @@
+:root {
+	--radio-btn-background-active-color: var(--primary-branding-color);
+    --radio-btn-border-normal-color: #B3BBC5;
+    --radio-btn-border-active-color: var(--primary-branding-color);
+    --radio-btn-active-inner-bg-color: #ffffff;
+	--toggle-btn-normal-bg-color: #4C545F;
+	--toggle-btn-inner-normal-bg-color: #D2D7DE;
+	--toggle-btn-normal-border-color: var(--secondary-border-color);
+	--toggle-btn-active-bg-color: var(--primary-branding-color);
+	--toggle-btn-active-inner-bg-color: #ffffff;
+	--toggle-btn-active-border-color: var(--primary-branding-border-color);
+        --checkbox-btn-tick-color: #ffffff;
+        --checkbox-btn-unchecked-bg-color: var(--primary-background-color);
+        --checkbox-btn-unchecked-border-color: var(--primary-border-color);
+        --checkbox-btn-checked-bg-color: var(--primary-branding-color);
+        --checkbox-btn-checked-border-color: var(--primary-branding-border-color);
+        --checkbox-btn-disable-bg-color: var(--designer-header-background)
+}

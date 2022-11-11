@@ -1,0 +1,23 @@
+:root{
+	--filteroverview-background:var(--secondary-background-color);
+	--filteroverview-font-color:var(--primary-text-normal-color);
+	--filteroverview-title-fontsize:var(--widget-fontsize);
+	--filteroverview-title-fontweight:var(--widget-fontweight);
+	--filteroverview-title-fontfamily:var(--widget-fontfamily);
+	--filteroverview-title-fontsrc:var(--widget-fontsrc);
+	--filteroverview-content-widgettitle-fontsize:var(--widget-fontsize);
+	--filteroverview-content-widgettitle-fontweight:var(--widget-fontweight);
+	--filteroverview-content-widgettitle-fontfamily:var(--widget-fontfamily);
+	--filteroverview-content-widgettitle-fontsrc:var(--widget-fontsrc);
+	--filteroverview-content-columnname-fontsize:var(--widget-fontsize);
+	--filteroverview-content-columnname-fontweight:var(--widget-fontweight);
+	--filteroverview-content-columnname-fontfamily:var(--widget-fontfamily);
+	--filteroverview-content-columnname-fontsrc:var(--widget-fontsrc);
+	--filteroverview-content-values-fontsize:var(--widget-fontsize);
+	--filteroverview-content-values-fontweight:var(--widget-fontweight);
+	--filteroverview-content-values-fontfamily:var(--widget-fontfamily);
+	--filteroverview-content-values-fontsrc:var(--widget-fontsrc);
+	--filteroverview-icon-font-color:var(--active-icon-normal-color);
+	--filteroverview-icon-fontsize:var(--widget-fontsize);
+	--filteroverview-icon-fontweight:var(--widget-fontweight);
+}
