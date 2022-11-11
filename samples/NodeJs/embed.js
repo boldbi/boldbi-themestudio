@@ -62,7 +62,7 @@ app.get("/",function (request, response) {
 
   if(pathname == "/") {
       html = fs.readFileSync("samples/NodeJs/index.html", "utf8");
-	    html=html.replace("<script>","<script>var configjsonstring='"+JSON.stringify(configjson)+"';var configjson=JSON.parse(configjsonstring);");
+	  html=html.replace("<script>","<script>var configjsonstring='"+JSON.stringify(configjson)+"';var configjson=JSON.parse(configjsonstring);");
       response.write(html);
   }
   response.end();

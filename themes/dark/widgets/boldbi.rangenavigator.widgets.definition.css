@@ -1,0 +1,16 @@
+:root{
+ --rangenavigator-widget-title-font-color:var(--widget-primary-font-color);
+ --rangenavigator-widget-title-fontsize:var(--widget-fontsize);
+ --rangenavigator-widget-title-fontweight:var(--widget-fontweight);
+ --rangenavigator-widget-title-fontfamily:var(--widget-fontfamily);
+ --rangenavigator-widget-title-fontsrc:var(--widget-fontsrc);
+ --rangenavigator-widget-subtitle-font-color:var(--widget-primary-font-color);
+ --rangenavigator-widget-subtitle-fontsize:var(--widget-fontsize);
+ --rangenavigator-widget-subtitle-fontweight:var(--widget-fontweight);
+ --rangenavigator-widget-subtitle-fontfamily:var(--widget-fontfamily);
+ --rangenavigator-widget-subtitle-fontsrc:var(--widget-fontsrc);
+ --rangenavigator-widget-content-fontsize:var(--widget-fontsize);
+ --rangenavigator-widget-content-fontweight:var(--widget-fontweight);
+ --rangenavigator-widget-content-fontfamily:var(--widget-fontfamily);
+ --rangenavigator-widget-content-fontsrc:var(--widget-fontsrc);
+}

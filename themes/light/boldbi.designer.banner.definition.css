@@ -1,0 +1,20 @@
+:root{
+ --banner-background:var(--primary-background-color);
+ --banner-textstyle-font-color:var(--primary-text-normal-color);
+ --banner-textstyle-fontsize:"";
+ --banner-textstyle-fontweight:"";
+ --banner-textstyle-fontfamily:var(--designer-font-family);
+ --banner-textstyle-fontsrc:var(--designer-fontsrc);
+ --banner-icon-font-color:var(--hover-icon-color);
+ --banner-icon-fontsize:"";
+ --banner-icon-fontweight:"";
+ --banner-icon-fontfamily:var(--designer-font-family);
+ --banner-icon-fontsrc:var(--designer-fontsrc);
+ --banner-icon-hover-font-color:var(--hover-icon-color);
+ --banner-icon-hover-fontsize:"";
+ --banner-icon-hover-fontweight:"";
+ --banner-icon-hover-fontfamily:var(--designer-font-family);
+ --banner-icon-hover-fontsrc:var(--designer-fontsrc);
+ --banner-icon-hover-background:var(--hover-icon-background-color);
+}
+ 

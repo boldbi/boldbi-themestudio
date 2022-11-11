@@ -1,0 +1,22 @@
+:root{
+ --rangeslider-widget-title-font-color:var(--widget-primary-font-color);
+ --rangeslider-widget-title-fontsize:var(--widget-fontsize);
+ --rangeslider-widget-title-fontweight:var(--widget-fontweight);
+ --rangeslider-widget-title-fontfamily:var(--widget-fontfamily);
+ --rangeslider-widget-title-fontsrc:var(--widget-fontsrc);
+ --rangeslider-widget-subtitle-font-color:var(--widget-primary-font-color);
+ --rangeslider-widget-subtitle-fontsize:var(--widget-fontsize);
+ --rangeslider-widget-subtitle-fontweight:var(--widget-fontweight);
+ --rangeslider-widget-subtitle-fontfamily:var(--widget-fontfamily);
+ --rangeslider-widget-subtitle-fontsrc:var(--widget-fontsrc);
+ --rangeslider-widget-slider-background:#dbdbdb;
+ --rangeslider-widget-range-color:#826AF9;
+ --rangeslider-widget-handle-background:var(--widget-primary-background);
+ --rangeslider-widget-handle-border:#826AF9;
+ --rangeslider-widget-label-background:var(--widget-primary-background);
+ --rangeslider-widget-label-font-color:var(--widget-label-primary-font-color);
+ --rangeslider-widget-label-fontsize:var(--widget-fontsize);
+ --rangeslider-widget-label-fontweight:var(--widget-fontweight);
+ --rangeslider-widget-label-fontfamily:var(--widget-fontfamily);
+ --rangeslider-widget-label-fontsrc:var(--widget-fontsrc);
+}

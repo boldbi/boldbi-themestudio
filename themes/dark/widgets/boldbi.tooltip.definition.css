@@ -1,0 +1,9 @@
+:root{
+ --tooltip-background:var(--primary-background-color);
+ --tooltip-font-color:var(--primary-text-normal-color);
+ --tooltip-fontsize:var(--widget-fontsize);
+ --tooltip-fontweight:var(--widget-fontweight);
+ --tooltip-fontfamily:var(--widget-fontfamily);
+ --tooltip-fontsrc:var(--widget-fontsrc);
+ --tooltip-border:var(--primary-border-color);
+}

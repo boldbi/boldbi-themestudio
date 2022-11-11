@@ -20,11 +20,14 @@
     --tool-tip-text-normal-color: #ffffff;
     --drop-down-menu-btn-border-hover-color: #b3b3b3;
     --input-box-text-disable-color: #999999;
-	--input-box-bg-disable-color: #f2f2f2;
+    --input-box-bg-disable-color: #f2f2f2;
     --material-switch-background-bg-normal-color: #fff;
     --material-switch-background-border-normal-color: #b3b3b3;
     --material-switch-background-border-hover-color: #4d4d4d;
     --material-switch-foreground-bg-normal-color: #808080;
+    --material-switch-background-bg-disable-color: #eeeeee;
+    --material-switch-background-border-disable-color: #cccccc;
+    --material-switch-foreground-bg-disable-color: #b3b3b3;
     --radio-button-border-normal-color: #b3b3b3;
     --radio-button-border-disable-color: #cccccc;
     --radio-button-box-shadow-disable-color: #eeeeee;

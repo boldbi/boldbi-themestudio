@@ -1,0 +1,8 @@
+:root{
+--tab-widget-tab-header-color:var(--primary-text-normal-color);
+--tab-widget-tab-header-fontsize:var(--widget-fontsize);
+--tab-widget-tab-header-fontweight:var(--widget-fontweight);
+--tab-widget-tab-header-fontfamily:var(--widget-fontfamily);
+--tab-widget-tab-header-fontsrc:var(--widget-fontsrc);
+--tab-widget-tab-header-selection-color: var(--primary-branding-color);
+}
