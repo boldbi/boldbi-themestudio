@@ -9,5 +9,5 @@
 	--widget-configuration-warning-image: 'url(/bi/cdn/css/designer/images/light/warning.svg) no-repeat';
 	--widget-configuration-alert-image: 'url(/bi/cdn/css/designer/images/light/alert.svg) no-repeat';
 	--widget-configuration-radio-button-unselected-border-color: var(--checkbox-btn-unchecked-border-color);
-
+   --widget-configuration-loading-indicator-color: var(--loading-indicator-color);
 }

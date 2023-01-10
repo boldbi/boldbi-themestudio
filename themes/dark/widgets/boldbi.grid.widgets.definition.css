@@ -39,4 +39,8 @@
 --grid-widget-header-font-fontweight:var(--widget-fontweight);
 --grid-widget-header-font-fontfamily:var(--widget-fontfamily);
 --grid-widget-header-font-fontsrc:var(--widget-fontsrc);
+--grid-widget-container-border-radius: var(--widget-container-border-radius);
+--grid-widget-container-border-color: var(--widget-container-border-color);
+--grid-widget-alternative-row-bg-color:var(--widget-datavalue-hover-background);
+--grid-widget-alternative-row-text-color: var(--widget-primary-font-color);
 }

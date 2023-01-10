@@ -103,6 +103,8 @@
  --pivotgrid-widget-filterdialog-header-fontweight:var(--widget-fontweight);
  --pivotgrid-widget-filterdialog-header-fontfamily:var(--widget-fontfamily);
  --pivotgrid-widget-filterdialog-header-fontsrc:var(--widget-fontsrc);
+ --pivotgrid-widget-container-border-radius: var(--widget-container-border-radius);
+ --pivotgrid-widget-container-border-color: var(--widget-container-border-color);
 }
  
  

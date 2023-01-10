@@ -22,5 +22,6 @@
 --map-widget-legendtitle-fontsize:var(--widget-fontsize);
 --map-widget-legendtitle-fontweight:var(--widget-fontweight);
 --map-widget-legendtitle-fontfamily:var(--widget-fontfamily);
-
+--map-widget-container-border-radius: var(--widget-container-border-radius);
+--map-widget-container-border-color: var(--widget-container-border-color);
 }

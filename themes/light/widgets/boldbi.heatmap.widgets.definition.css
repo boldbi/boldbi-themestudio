@@ -30,4 +30,6 @@
 --heatmap-widget-legend-fontweight:var(--widget-fontweight);
 --heatmap-widget-legend-fontfamily:var(--widget-fontfamily);
 --heatmap-widget-legend-fontsrc:var(--widget-fontsrc);
+ --heatmap-widget-container-border-radius: var(--widget-container-border-radius);
+--heatmap-widget-container-border-color: var(--widget-container-border-color);
 }

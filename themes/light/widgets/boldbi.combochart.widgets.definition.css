@@ -35,4 +35,6 @@
 --combochart-widget-legendtitle-fontweight:var(--widget-fontweight);
 --combochart-widget-legendtitle-fontfamily:var(--widget-fontfamily);
 --combochart-widget-marker-color:#ffffff;
+--combochart-widget-container-border-radius: var(--widget-container-border-radius);
+--combochart-widget-container-border-color: var(--widget-container-border-color);
 }

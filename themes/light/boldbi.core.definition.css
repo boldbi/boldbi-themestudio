@@ -11,5 +11,6 @@
     --hover-icon-background-color: #eeeeee;
     --hover-icon-color: #1a1a1a;
     --disable-icon-color: #eeeeee;
-	--active-bg-hover-color: #f0f6ff;
+    --active-bg-hover-color: #f0f6ff;
+    --loading-indicator-color: var(--primary-branding-color);
 }

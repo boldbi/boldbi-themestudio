@@ -88,6 +88,7 @@
  --datepicker-widget-okbutton-hover-fontweight:var(--widget-fontweight);
  --datepicker-widget-okbutton-hover-fontfamily:var(--widget-fontfamily);
  --datepicker-widget-okbutton-hover-fontsrc:var(--widget-fontsrc);
- 
+ --datepicker-widget-container-border-radius: var(--widget-container-border-radius);
+--datepicker-widget-container-border-color: var(--widget-container-border-color);
  
 }

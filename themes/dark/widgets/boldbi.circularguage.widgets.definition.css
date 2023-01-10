@@ -34,4 +34,6 @@
 --circulargauge-widget-differencevalue-low-color:#FF6C40;
 --circulargauge-widget-differencevalue-medium-color:#FFE700;
 --circulargauge-widget-differencevalue-high-color:#2CD9C5;
+--circulargauge-widget-container-border-radius: var(--widget-container-border-radius);
+--circulargauge-widget-container-border-color: var(--widget-container-border-color);
 }

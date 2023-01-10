@@ -17,4 +17,6 @@
  --textfilter-widget-fontweight:var(--widget-fontweight);
  --textfilter-widget-fontfamily:var(--widget-fontfamily);
  --textfilter-widget-fontsrc:var(--widget-fontsrc);
+ --textfilter-widget-container-border-radius: var(--widget-container-border-radius);
+ --textfilter-widget-container-border-color: var(--widget-container-border-color);
 }

@@ -12,4 +12,5 @@
     --hover-icon-color: #ffffff;
     --disable-icon-color: #7B838E;
 	--active-bg-hover-color: #3B82F633;
+    --loading-indicator-color: var(--primary-branding-color);
 }

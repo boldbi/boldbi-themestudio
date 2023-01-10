@@ -8,4 +8,5 @@
   --datapreview-active-hover-background-color: var(--active-bg-hover-color);
   --datapreview-border-color: var(--secondary-border-color);
   --datapreview-hover-background-color: var(--hover-bg-normal-color);
+  --datapreview-loading-indicator-color: var(--loading-indicator-color);
 }

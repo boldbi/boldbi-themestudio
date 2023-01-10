@@ -20,4 +20,6 @@
  --numbercard-widget-title-fontweight:var(--widget-fontweight);
  --numbercard-widget-title-fontfamily:var(--widget-fontfamily);
  --numbercard-widget-title-fontsrc:var(--widget-fontsrc);
+ --numbercard-widget-container-border-radius: var(--widget-container-border-radius);
+ --numbercard-widget-container-border-color: var(--widget-container-border-color);
 }
