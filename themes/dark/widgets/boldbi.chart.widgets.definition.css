@@ -35,4 +35,6 @@
 --chart-widget-legendtitle-fontweight:var(--widget-fontweight);
 --chart-widget-legendtitle-fontfamily:var(--widget-fontfamily);
 --chart-widget-marker-color: var(--secondary-background-color);
+--chart-widget-container-border-radius: var(--widget-container-border-radius);
+--chart-widget-container-border-color: var(--widget-container-border-color);
 }

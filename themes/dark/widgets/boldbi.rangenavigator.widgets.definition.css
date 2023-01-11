@@ -13,4 +13,6 @@
  --rangenavigator-widget-content-fontweight:var(--widget-fontweight);
  --rangenavigator-widget-content-fontfamily:var(--widget-fontfamily);
  --rangenavigator-widget-content-fontsrc:var(--widget-fontsrc);
+--rangenavigator-widget-container-border-radius: var(--widget-container-border-radius);
+--rangenavigator-widget-container-border-color: var(--widget-container-border-color);
 }

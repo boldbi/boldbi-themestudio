@@ -27,4 +27,6 @@
 --radarpolar-widget-legend-fontfamily:var(--widget-fontfamily);
 --radarpolar-widget-legend-fontsrc:var(--widget-fontsrc);
 --radarpolar-widget-marker-color: var(--secondary-background-color);
+--radarpolar-widget-container-border-radius: var(--widget-container-border-radius);
+--radarpolar-widget-container-border-color: var(--widget-container-border-color);
 }

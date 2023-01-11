@@ -37,4 +37,6 @@
  --combobox-widget-checkbox-unchecked-border:var(--checkbox-btn-unchecked-border-color);
  --combobox-widget-checkbox-checked-bg:var(--checkbox-btn-checked-bg-color);
  --combobox-widget-checkbox-checked-border:var(--checkbox-btn-checked-border-color);
+--combobox-widget-container-border-radius: var(--widget-container-border-radius);
+--combobox-widget-container-border-color: var(--widget-container-border-color);
 }

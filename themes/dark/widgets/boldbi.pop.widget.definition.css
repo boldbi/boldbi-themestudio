@@ -117,6 +117,8 @@
  --pop-widget-dialog-cancelbutton-fontweight:var(--widget-fontweight);
  --pop-widget-dialog-cancelbutton-fontfamily:var(--widget-fontfamily);
  --pop-widget-dialog-cancelbutton-fontsrc:var(--widget-fontsrc);
+--pop-widget-container-border-radius: var(--widget-container-border-radius);
+--pop-widget-container-border-color: var(--widget-container-border-color);
 }
  
  

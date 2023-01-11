@@ -30,4 +30,6 @@
 --scatter-widget-legend-fontweight:var(--widget-fontweight);
 --scatter-widget-legend-fontfamily:var(--widget-fontfamily);
 --scatter-widget-legend-fontsrc:var(--widget-fontsrc);
+--scatter-widget-container-border-radius: var(--widget-container-border-radius);
+--scatter-widget-container-border-color: var(--widget-container-border-color);
 }

@@ -233,6 +233,11 @@
 --oauth-decisionlens-tile-background-icon:url('dark/images/datasource/decisionlens/decisionlens_tile.png');
 --oauth-dropbox-background-icon:url('dark/images/datasource/dropbox/dropbox.png');
 --oauth-dropbox-tile-background-icon:url('dark/images/datasource/dropbox/dropbox_tile.png');
+--oauth-dropbox-folder-background-icon:url('dark/images/datasource/dropbox/folder.png');
+--oauth-dropbox-csv-background-icon:url('dark/images/datasource/dropbox/csv.png');
+--oauth-dropbox-json-background-icon:url('dark/images/datasource/dropbox/json.png');
+--oauth-dropbox-excel-background-icon:url('dark/images/datasource/dropbox/excel.png');
+--oauth-dropbox-xml-background-icon:url('dark/images/datasource/dropbox/xml.png');
 --oauth-eventbrite-background-icon:url('dark/images/datasource/eventbrite/eventbrite.png');
 --oauth-eventbrite-tile-background-icon:url('dark/images/datasource/eventbrite/eventbrite_tile.png');
 --oauth-facebook-background-icon:url('dark/images/datasource/facebook/facebook.png');
@@ -330,4 +335,6 @@
 --common-microsoft-onedrive-excel-background-icon:url('dark/images/datasource/common/microsoft_xlsx.png');
 --common-microsoft-onedrive-csv-background-icon:url('dark/images/datasource/common/microsoftdrive_csv.png');
 --common-microsoft-onedrive-json-background-icon:url('dark/images/datasource/common/microsoftdrive_json.png');
+--oauth-gohighlevel-background-icon:url('dark/images/datasource/gohighlevel/gohighlevel.png');
+--oauth-gohighlevel-tile-background-icon:url('dark/images/datasource/gohighlevel/gohighlevel_tile.png');
 }

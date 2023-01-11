@@ -10,4 +10,6 @@
   --connector-primary-border-color: var(--primary-border-color);
   --connector-secondary-border-color: var(--secondary-border-color);
     --connector-disable-button-foreground: var(--active-icon-normal-color);
+   --connector-loading-indicator-color: var(--loading-indicator-color);
+
 }

@@ -3,5 +3,6 @@
 --rte-widget-content-fontweight:var(--widget-fontweight);
 --rte-widget-content-fontfamily:var(--widget-fontfamily);
 --rte-widget-content-fontsrc:var(--widget-fontsrc);
-
+--rte-widget-container-border-radius: var(--widget-container-border-radius);
+--rte-widget-container-border-color: var(--widget-container-border-color);
 }

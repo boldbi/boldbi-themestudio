@@ -21,4 +21,7 @@
   --widget-datavalue-hover-background:var(--hover-bg-normal-color);
   --widget-selection-background-color:var(--active-bg-normal-color);
   --widget-selection-font-color:var(--active-text-normal-color);
+  --widget-loading-indicator-color: var(--loading-indicator-color);
+  --widget-container-border-color: #D3D3D3;
+  --widget-container-border-radius: 4px;
 }

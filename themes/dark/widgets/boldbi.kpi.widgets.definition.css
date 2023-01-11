@@ -41,5 +41,6 @@
  --kpicard-widget-title-fontweight:var(--widget-fontweight);
  --kpicard-widget-title-fontfamily:var(--widget-fontfamily);
  --kpicard-widget-title-fontsrc:var(--widget-fontsrc);
- 
+ --kpicard-widget-container-border-radius: var(--widget-container-border-radius);
+--kpicard-widget-container-border-color: var(--widget-container-border-color);
 }
