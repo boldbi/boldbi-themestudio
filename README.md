@@ -41,7 +41,7 @@ gulp build
 ```
 
 * Please download the embedded configuration file from the BoldBi server page and paste it into the root directory to get the embedded related details, and run the sample. 
-https://help.boldbi.com/cloud-bi/site-administration/embed-settings/#get-embed-configuration-file 
+https://help.boldbi.com/cloud-bi/site-administration/embed-settings/#get-embed-configuration-file?utm_source=github&utm_medium=backlinks 
 
 
 * To run the sample, execute the command below:
@@ -58,4 +58,4 @@ http://localhost:8080/
 
 After running the `gulp build` command, we generated the custom theme file in the light and dark theme basis. You can get that file from the assests folder and refer to it in your embedded application. If you want your own customization file means, please refer to the help document below: 
 
-https://help.boldbi.com/cloud-bi/site-administration/look-and-feel-settings/#How-to-create-custom-application-theme
+https://help.boldbi.com/cloud-bi/site-administration/look-and-feel-settings/#How-to-create-custom-application-theme?utm_source=github&utm_medium=backlinks
